@@ -16,3 +16,4 @@ typings install
 ## Steps
 1. init
 2. first Angular component
+3. Add main.ts
