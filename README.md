@@ -16,4 +16,5 @@ typings install
 ## Steps
 1. init
 2. first Angular component
-3. Add main.ts
+3. Add main.ts to load the component created at Step2
+4. Add index.html to load main.js
