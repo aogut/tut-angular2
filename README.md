@@ -12,3 +12,7 @@ https://angular.io/docs/ts/latest/quickstart.html
 npm install
 typings install
 ```
+
+## Steps
+1. init
+2. first Angular component
